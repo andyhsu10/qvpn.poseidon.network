@@ -11,6 +11,6 @@ deploy:
  skip_cleanup: true
  github_token: $GITHUB_TOKEN
  local_dir: dist
- fqdn: www.jelly.sh
+ fqdn: jelly.host
  on:
    branch: master
