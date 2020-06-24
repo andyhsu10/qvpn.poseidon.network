@@ -10,7 +10,7 @@ npm run build
 cd dist
 
 # if you are deploying to a custom domain
-echo 'jelly.sh' > CNAME
+echo 'staging-test.jelly.sh' > CNAME
 
 git init
 git add -A
